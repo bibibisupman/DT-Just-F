@@ -1,0 +1,28 @@
+{
+  "name": "dt-jsut--f",
+  "version": "1.0.0",
+  "description": "\"for yui\"",
+  "main": "index.js",
+  "bin": {
+    "dt-jsut--f": "bin/cpbem.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bibibisupman/DT-Just-F.git"
+  },
+  "keywords": [
+    "DT"
+  ],
+  "author": "bisuman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bibibisupman/DT-Just-F/issues"
+  },
+  "homepage": "https://github.com/bibibisupman/DT-Just-F#readme"
+}
